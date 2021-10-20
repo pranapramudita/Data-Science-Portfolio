@@ -34,7 +34,7 @@ _Most of the projects using Python Language with Jupyter Notebook._
   - [Deep Learning](Machine%20Learning/Deep%20Learning.ipynb):
 
 - ### [Micro Projects]()
-  - []():
+  - [The Spread of Covid Transmission in Indonesia for each Province](Micro%20Projects/The%20Spread%20of%20Covid%20Transmission%20in%20Indonesia%20for%20each%20Province.ipynb): Visualize Covid-19 spread in Indonesia for each Province with Geojson using Folium. 
 
 If you interested with my portfolio and looking for collaboration or work opportunity. You can reach me at pranapramudita@gmail.com. Thank You!
 
@@ -46,4 +46,4 @@ object-fit=""
 </p>
 
 ### Support me
-If this portfolio inspired you, please consider [buy me a coffee!☕](https://saweria.co/anarp)
+If this portfolio inspired you, please consider [buy me a coffee!☕](https://saweria.co/pranapramudita)
