@@ -34,7 +34,8 @@ _Most of the projects using Python Language with Jupyter Notebook._
   - [Deep Learning](Machine%20Learning/Deep%20Learning.ipynb):
 
 - ### [Micro Projects]()
-  - [The Spread of Covid Transmission in Indonesia for each Province](Micro%20Projects/The%20Spread%20of%20Covid%20Transmission%20in%20Indonesia%20for%20each%20Province.ipynb): Visualize Covid-19 spread in Indonesia for each Province with Geojson using Folium. 
+  - [The Spread of Covid Transmission in Indonesia for each Province](Micro%20Projects/The%20Spread%20of%20Covid%20Transmission%20in%20Indonesia%20for%20each%20Province.ipynb): Visualize Covid-19 spread in Indonesia for each Province with Geojson using Folium.
+  - [Recommender System: Anime Recommendation using Content Based Filtering (Kaggle Dataset)](Micro%20Projects/Recommender%20System%20-%20Anime%20Recommendation%20using%20Content%20Based%20Filtering.ipynb): In this project I build up recommendation system using content based filtering with MyAnimeList 2020 dataset from Kaggle.
 
 If you interested with my portfolio and looking for collaboration or work opportunity. You can reach me at pranapramudita@gmail.com. Thank You!
 
