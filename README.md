@@ -28,7 +28,7 @@ _Most of the projects using Python Language with Jupyter Notebook._
   - []():
 
 - ### [Machine Learning](Machine%20Learning)
-  - [Supervised Learning](Machine%20Learning/Supervised%20Learning.ipynb):
+  - [Supervised Learning: Heart Failure Prediction using Kaggle Dataset](Machine%20Learning/Supervised%20Learning%20-%20Heart%20Failure%20Prediction%20.ipynb): In this project, I'm doing Exploratory Data Analysis (EDA), Data Cleansing and Model Selection to get the best model learning with the best accuracy score.
   - [Unsupervised Learning](Machine%20Learning/Unsupervised%20Learning%20-%20Marketing%20Campaign.ipynb): In this notebook, i'm using Customer Personality Analysis Data (Newest Dataset on Kaggle) and cluster it using K-Means with PCA into 4 Cluster and Profiling it.
   - [Reinforcement Learning](Machine%20Learning/Reinforcement%20Learning.ipynb):
   - [Deep Learning](Machine%20Learning/Deep%20Learning.ipynb):
