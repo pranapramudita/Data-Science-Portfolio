@@ -22,7 +22,7 @@ _Most of the projects using Python Language with Jupyter Notebook._
   - [Function](Python%20Fundamentals/function%20-%20Basic%20Math%20Operations.ipynb) : Basic math operations using function.
 
 - ### [Data Analysis and Visualization](Data%20Analysis%20and%20Visualization)
-  - [Data Visualization: The Spread of Covid Transmission in Indonesia for each Province](Micro%20Projects/The%20Spread%20of%20Covid%20Transmission%20in%20Indonesia%20for%20each%20Province.ipynb) : Visualize Covid-19 spread in Indonesia for each Province with Geojson using Folium.
+  - [Data Visualization: The Spread of Covid Transmission in Indonesia for each Province](Data%20Analysis%20and%20Visualization/The%20Spread%20of%20Covid%20Transmission%20in%20Indonesia%20for%20each%20Province.ipynb) : Visualize Covid-19 spread in Indonesia for each Province with Geojson using Folium.
   - []():
   - []():
   - []():
