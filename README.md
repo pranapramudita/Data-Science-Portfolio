@@ -15,18 +15,14 @@ _Most of the projects using Python Language with Jupyter Notebook._
 - ### [Machine Learning](Machine%20Learning)
   - [Supervised Learning: Heart Failure Prediction](Machine%20Learning/Supervised%20Learning%20-%20Heart%20Failure%20Prediction%20.ipynb): In this project, I'm doing Exploratory Data Analysis (EDA), Data Cleansing and Model Selection to get the best model learning with the best accuracy score.
   - [Unsupervised Learning: Customer Clustering](Machine%20Learning/Unsupervised%20Learning%20-%20Marketing%20Campaign.ipynb): In this notebook, i'm using Customer Personality Analysis Data (Newest Dataset on Kaggle) and cluster it using K-Means with PCA into 4 Cluster and Profiling it.
-  - [Reinforcement Learning](Machine%20Learning/Reinforcement%20Learning.ipynb):
-  - [Deep Learning](Machine%20Learning/Deep%20Learning.ipynb):
+  - [Reinforcement Learning](Machine%20Learning/Reinforcement%20Learning.ipynb): Soon
+  - [Deep Learning](Machine%20Learning/Deep%20Learning.ipynb): Soon
 
 - ### [Micro Projects](Micro%20Projects)
   - [Recommender System: Anime Recommendation](Micro%20Projects/Recommender%20System%20-%20Anime%20Recommendation%20using%20Content%20Based%20Filtering.ipynb): In this project I build up recommendation system using content based filtering with MyAnimeList 2020 dataset from Kaggle.
 
 - ### [Data Analysis and Visualization](Data%20Analysis%20and%20Visualization)
   - [Data Visualization: The Spread of Covid Transmission in Indonesia for each Province](Data%20Analysis%20and%20Visualization/The%20Spread%20of%20Covid%20Transmission%20in%20Indonesia%20for%20each%20Province.ipynb): Visualize Covid-19 spread in Indonesia for each Province with Geojson using Folium.
-  - []():
-  - []():
-  - []():
-  - []():
 
 - ### [Python Fundamentals](Python%20Fundamentals)
   - [Variable](Python%20Fundamentals/variable%20-%20Grocery%20Store.ipynb): Simple use of variables in grocery store case example.
