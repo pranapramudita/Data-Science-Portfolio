@@ -7,7 +7,7 @@ object-fit=""
 />
 </p>
 
-Repository containing portfolio of data science projects by [Prana Pramudita Kusdiananggalih](https://github.com/pranapramudita). 
+Repository containing portfolio of data science projects by [Prana Pramudita](https://github.com/pranapramudita). 
 _Most of the projects using Python Language with Jupyter Notebook._
 
 ## Contents
